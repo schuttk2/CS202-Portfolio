@@ -75,6 +75,10 @@ p a {
    font-size: larger;
 }
 
+#note {
+   margin-left: 100px;
+}
+
 img {
    height: 150px;
    margin: 30px;
